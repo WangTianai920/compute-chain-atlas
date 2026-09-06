@@ -18,7 +18,7 @@ ROOT = Path(__file__).resolve().parents[1]
 CATALOG = ROOT / "data/research/2026-08-31-cross-sector-review.json"
 OVERRIDES = json.loads((ROOT / "data/research/2026-09-01-annual-disclosure-overrides.json").read_text())
 LIST_CACHE = ROOT / "tmp/pdfs/annual-business-api-cache"
-PDF_DIR = Path("/private/tmp/compute-chain-annual-reports")
+PDF_DIR = ROOT / "tmp/pdfs/annual-reports"
 OUTPUT = ROOT / "docs/research/2026-09-01-annual-business-pdf-extracts.json"
 PDF_DIR.mkdir(parents=True, exist_ok=True)
 

@@ -11,13 +11,13 @@
 - 密码后台：新增、编辑、停用或删除跟踪标的
 - 数据持久化：Cloudflare D1；行情与资讯来自公开财经数据源
 
-## 本地运行
+## 云端或本地运行
 
-需要 Node.js 22.13 或更高版本。
+建议 Node.js 22.18.0（见 `.nvmrc`）。云端环境配置见 [云端开发说明](docs/cloud-development.md)。
 
 ```bash
-npm ci
-npm run dev
+bash scripts/cloud-setup.sh
+npm run dev:local
 ```
 
 本地管理员密码通过 `.dev.vars` 中的 `ADMIN_PASSWORD` 和 `ADMIN_SESSION_SECRET` 配置；该文件不会提交。
@@ -25,7 +25,8 @@ npm run dev
 ## 校验
 
 ```bash
-npm test
+npm run cloud:check
+npm run cloud:smoke
 ```
 
 ## 部署

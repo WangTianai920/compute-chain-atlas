@@ -22,11 +22,14 @@
     "db:generate": "drizzle-kit generate",
     "pages:stage": "node scripts/stage-pages.mjs",
     "test:company-financials": "node --experimental-strip-types --test tests/company-financials.test.ts",
-    "dev:local": "COMPUTE_CHAIN_LOCAL_ONLY=1 npm run dev",
+    "dev:local": "COMPUTE_CHAIN_LOCAL_ONLY=1 WRANGLER_LOG_PATH=.wrangler/wrangler.log vinext dev",
     "test:research-expansion": "node --experimental-strip-types --test tests/research-expansion.test.mjs",
     "test:cross-sector-review": "node --experimental-strip-types --test tests/cross-sector-review.test.mjs",
     "test:annual-business": "node --experimental-strip-types --test tests/annual-business.test.mjs",
-    "test:company-display": "node --experimental-strip-types --test tests/company-display.test.ts"
+    "test:company-display": "node --experimental-strip-types --test tests/company-display.test.ts",
+    "cloud:setup": "bash scripts/cloud-setup.sh",
+    "cloud:check": "COMPUTE_CHAIN_LOCAL_ONLY=1 npm test",
+    "cloud:smoke": "node scripts/cloud-smoke.mjs"
   },
   "dependencies": {
     "drizzle-orm": "0.45.2",
@@ -37,7 +40,6 @@
     "@cloudflare/vite-plugin": "1.37.1",
     "@eslint/js": "9.39.4",
     "@next/eslint-plugin-next": "16.2.6",
-    "@openai/sites-vite-plugin": "0.1.0",
     "@tailwindcss/postcss": "4.2.1",
     "@types/node": "22.19.19",
     "@types/react": "19.2.14",
