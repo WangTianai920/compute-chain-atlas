@@ -30,7 +30,7 @@ npm test
 
 ## 部署
 
-项目保留 OpenAI Sites 版本作为回滚备份，并直接运行在 Cloudflare Pages 与 D1 免费托管上。生产环境管理员密码存储为托管平台密钥，不写入源码。
+项目直接运行在 Cloudflare Pages 与 D1 免费托管上。生产环境管理员密码存储为托管平台密钥，不写入源码。
 
 Cloudflare 直连部署说明保存在 `cloudflare-pages/README.md`；应用入口为 `worker/index.ts`。
 
