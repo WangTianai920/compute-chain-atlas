@@ -1,0 +1,979 @@
+{
+  "batch": "2026-08-31",
+  "scope": "A股算力产业链既有13个方向",
+  "policy": "核对代码及现用简称；依据公开披露确认业务关联；新增统一候选，不推定市场份额或股价表现。",
+  "companies": [
+    {
+      "code": "300458",
+      "name": "全志科技",
+      "sector": "compute-chip",
+      "role": "candidate",
+      "thesis": "提供集成CPU、GPU及NPU的应用处理器，覆盖工业和端侧AI推理。",
+      "evidence": "官网T527产品资料披露多核异构处理器及独立NPU，已有量产供货。",
+      "risk": "侧重端侧与工业计算，不能等同于数据中心训练GPU供应商。",
+      "stage": "已披露产品或业务",
+      "sources": [
+        {
+          "url": "https://www.allwinnertech.com/index.php?a=index&c=news&id=424",
+          "title": "全志官网：T527系列芯，AI助力行业智能",
+          "publishedAt": "2024-04-22"
+        }
+      ],
+      "aliases": [],
+      "reviewedAt": "2026-08-31"
+    },
+    {
+      "code": "688521",
+      "name": "芯原股份",
+      "sector": "compute-chip",
+      "role": "candidate",
+      "thesis": "提供GPU、AI处理器等半导体IP及芯片定制服务，连接AI芯片设计与量产。",
+      "evidence": "半年报披露面向AIGC和数据中心的GPU、AI IP，以及Chiplet相关研发和产业化。",
+      "risk": "主要为IP授权和芯片设计服务；项目订单、研发进度与量产业务应分开跟踪。",
+      "stage": "已披露产品或业务",
+      "sources": [
+        {
+          "url": "https://static.cninfo.com.cn/finalpage/2025-08-23/1224555805.PDF",
+          "title": "芯原股份2025年半年度报告",
+          "publishedAt": "2025-08-23"
+        }
+      ],
+      "aliases": [],
+      "reviewedAt": "2026-08-31"
+    },
+    {
+      "code": "301536",
+      "name": "星宸科技",
+      "sector": "compute-chip",
+      "role": "candidate",
+      "thesis": "端边侧视觉AI SoC设计厂商，拥有自研AI处理器和配套工具链。",
+      "evidence": "2025年报披露自研AI指令集、硬件IP和编译器，产品用于智能安防、物联及车载。",
+      "risk": "端边侧推理与云端训练的市场、功耗和商业模式不同，不混用算力口径。",
+      "stage": "已披露产品或业务",
+      "sources": [
+        {
+          "url": "https://static.cninfo.com.cn/finalpage/2026-03-10/1225001998.PDF",
+          "title": "星宸科技2025年年度报告",
+          "publishedAt": "2026-03-10"
+        }
+      ],
+      "aliases": [],
+      "reviewedAt": "2026-08-31"
+    },
+    {
+      "code": "301308",
+      "name": "江波龙",
+      "sector": "memory-interconnect",
+      "role": "candidate",
+      "thesis": "存储产品与解决方案供应商，覆盖企业级SSD、内存模组及嵌入式存储。",
+      "evidence": "投资者交流披露企业级产品进入部分互联网和服务器客户供应链，2025年企业级存储收入17.83亿元。",
+      "risk": "消费级与企业级业务并存；存储价格周期、库存及客户认证影响经营。",
+      "stage": "已披露产品或业务",
+      "sources": [
+        {
+          "url": "https://static.cninfo.com.cn/finalpage/2026-05-07/1225283135.PDF",
+          "title": "江波龙投资者关系活动记录",
+          "publishedAt": "2026-05-07"
+        }
+      ],
+      "aliases": [],
+      "reviewedAt": "2026-08-31"
+    },
+    {
+      "code": "688110",
+      "name": "东芯股份",
+      "sector": "memory-interconnect",
+      "role": "candidate",
+      "thesis": "提供NAND Flash、NOR Flash、DRAM及MCP，覆盖网络通信与工业存储需求。",
+      "evidence": "半年报披露利基型存储产品，应用包含企业级网关、通信设备和监控终端。",
+      "risk": "主要为利基型存储，不将其描述为HBM或大容量服务器DRAM龙头。",
+      "stage": "已披露产品或业务",
+      "sources": [
+        {
+          "url": "https://static.cninfo.com.cn/finalpage/2025-08-23/1224559464.PDF",
+          "title": "东芯股份2025年半年度报告",
+          "publishedAt": "2025-08-23"
+        }
+      ],
+      "aliases": [],
+      "reviewedAt": "2026-08-31"
+    },
+    {
+      "code": "688416",
+      "name": "恒烁股份",
+      "sector": "memory-interconnect",
+      "role": "candidate",
+      "thesis": "NOR Flash及MCU设计厂商，补充端侧系统代码存储环节。",
+      "evidence": "年报摘要披露NOR Flash产品已量产，并持续研发新架构产品。",
+      "risk": "业务以NOR与MCU为主，与大型智算中心的直接关联弱于企业级存储；存算研发不视为成熟收入。",
+      "stage": "已披露产品或业务",
+      "sources": [
+        {
+          "url": "https://static.cninfo.com.cn/finalpage/2025-04-26/1223309621.PDF",
+          "title": "恒烁股份2024年年度报告摘要",
+          "publishedAt": "2025-04-26"
+        }
+      ],
+      "aliases": [],
+      "reviewedAt": "2026-08-31"
+    },
+    {
+      "code": "000034",
+      "name": "神州数码",
+      "sector": "ai-server",
+      "role": "candidate",
+      "thesis": "旗下神州鲲泰提供通用服务器、AI训推服务器及一体机，参与国产算力交付。",
+      "evidence": "2025年报摘要列明神州鲲泰服务器矩阵，以及通用计算、智算和边缘产品。",
+      "risk": "IT分销占据重要业务份额，自有品牌算力业务不能代表全部收入。",
+      "stage": "已披露产品或业务",
+      "sources": [
+        {
+          "url": "https://static.cninfo.com.cn/finalpage/2026-03-31/1225058635.PDF",
+          "title": "神州数码2025年年度报告摘要",
+          "publishedAt": "2026-03-31"
+        }
+      ],
+      "aliases": [],
+      "reviewedAt": "2026-08-31"
+    },
+    {
+      "code": "000066",
+      "name": "中国长城",
+      "sector": "ai-server",
+      "role": "candidate",
+      "thesis": "提供自主计算整机、服务器及网络设备，参与国产算力基础设施建设。",
+      "evidence": "年报摘要披露覆盖芯片、关键部件、服务器和网络交换设备的计算产业产品线。",
+      "risk": "通用信创和AI训练服务器需要区分，具体订单及业务占比以公告为准。",
+      "stage": "已披露产品或业务",
+      "sources": [
+        {
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12262270",
+          "title": "中国长城2025年年度报告摘要（新浪转载）",
+          "publishedAt": "2026-04-29"
+        }
+      ],
+      "aliases": [],
+      "reviewedAt": "2026-08-31"
+    },
+    {
+      "code": "300548",
+      "name": "长芯博创",
+      "sector": "optical",
+      "role": "candidate",
+      "thesis": "原简称博创科技，提供数通光模块、有源光缆及数据中心互联产品。",
+      "evidence": "2024年报列明数据中心内部互联用光收发模块、AOC及铜缆产品；现名由当日公开行情核对。",
+      "risk": "保留原名作为检索别名；新一代产品送样、量产与客户收入不作推定。",
+      "stage": "已披露产品或业务",
+      "sources": [
+        {
+          "url": "https://static.cninfo.com.cn/finalpage/2025-03-28/1222925704.PDF",
+          "title": "博创科技2024年年度报告（现名长芯博创）",
+          "publishedAt": "2025-03-28"
+        }
+      ],
+      "aliases": [
+        "博创科技"
+      ],
+      "reviewedAt": "2026-08-31"
+    },
+    {
+      "code": "300570",
+      "name": "太辰光",
+      "sector": "optical",
+      "role": "candidate",
+      "thesis": "提供MPO/MTP等高密度光纤连接器和光通信器件，参与数据中心光互联。",
+      "evidence": "2026年半年报披露高密度光互联研发制造能力及数据中心客户交付。",
+      "risk": "重点为光连接及无源器件；海外需求、客户集中度和贸易环境需要跟踪。",
+      "stage": "已披露产品或业务",
+      "sources": [
+        {
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12496629&stockid=300570",
+          "title": "太辰光2026年半年度报告（新浪转载）",
+          "publishedAt": null
+        }
+      ],
+      "aliases": [],
+      "reviewedAt": "2026-08-31"
+    },
+    {
+      "code": "300620",
+      "name": "光库科技",
+      "sector": "optical",
+      "role": "candidate",
+      "thesis": "光通信器件与调制器芯片供应商，产品用于高速光模块和光互联。",
+      "evidence": "2025年报列明光纤阵列、隔离器、环形器及高速调制器等光通信产品。",
+      "risk": "同时经营光纤激光业务；新品发布不等于已大规模出货或形成收入。",
+      "stage": "已披露产品或业务",
+      "sources": [
+        {
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12012908&stockid=300620",
+          "title": "光库科技2025年年度报告（新浪转载）",
+          "publishedAt": null
+        }
+      ],
+      "aliases": [],
+      "reviewedAt": "2026-08-31"
+    },
+    {
+      "code": "688195",
+      "name": "腾景科技",
+      "sector": "optical",
+      "role": "candidate",
+      "thesis": "精密光学元组件供应商，产品及研发覆盖光通信、光引擎和光连接。",
+      "evidence": "半年报披露高速光模块相关光引擎、CPO光连接器和硅光COB项目。",
+      "risk": "光引擎与CPO部分项目处于试样或开发阶段，不能将研发项目视为量产业绩。",
+      "stage": "光学主业已开展，部分新品研发验证",
+      "sources": [
+        {
+          "url": "https://static.cninfo.com.cn/finalpage/2025-08-30/1224622870.PDF",
+          "title": "腾景科技2025年半年度报告",
+          "publishedAt": "2025-08-30"
+        }
+      ],
+      "aliases": [],
+      "reviewedAt": "2026-08-31"
+    },
+    {
+      "code": "603083",
+      "name": "剑桥科技",
+      "sector": "optical",
+      "role": "candidate",
+      "thesis": "提供高速光模块及通信网络终端设备，连接数据中心与电信网络需求。",
+      "evidence": "光迅科技募集说明书的同行业业务比较列明剑桥科技高速光模块及ICT产品业务。",
+      "risk": "依据包含同行业正式披露；光模块与宽带终端业务需分别评估，不推定具体客户份额。",
+      "stage": "已披露产品或业务",
+      "sources": [
+        {
+          "url": "https://static.cninfo.com.cn/finalpage/2025-11-25/1224824317.PDF",
+          "title": "光迅科技2025年募集说明书：同行业公司业务比较",
+          "publishedAt": "2025-11-25"
+        }
+      ],
+      "aliases": [],
+      "reviewedAt": "2026-08-31"
+    },
+    {
+      "code": "603228",
+      "name": "景旺电子",
+      "sector": "pcb-copper",
+      "role": "candidate",
+      "thesis": "PCB供应商，高阶HDI及高速线路板应用于AI服务器、数据中心和光模块。",
+      "evidence": "半年报披露面向服务器及数据中心的相关产品已量产，并推进更高速产品研发。",
+      "risk": "汽车与消费电子业务也占重要位置，不把全部PCB收入计作AI收入。",
+      "stage": "已披露产品或业务",
+      "sources": [
+        {
+          "url": "https://static.cninfo.com.cn/finalpage/2025-08-30/1224623843.PDF",
+          "title": "景旺电子2025年半年度报告",
+          "publishedAt": "2025-08-30"
+        }
+      ],
+      "aliases": [],
+      "reviewedAt": "2026-08-31"
+    },
+    {
+      "code": "688183",
+      "name": "生益电子",
+      "sector": "pcb-copper",
+      "role": "candidate",
+      "thesis": "高多层PCB供应商，产品覆盖AI服务器、交换机及通信网络设备。",
+      "evidence": "2024年报披露服务器产品销售占比提升及与AI服务器客户的产品开发合作。",
+      "risk": "与生益科技为不同上市主体，分别跟踪PCB制造和覆铜板材料，避免集团口径重复加总。",
+      "stage": "已披露产品或业务",
+      "sources": [
+        {
+          "url": "https://static.cninfo.com.cn/finalpage/2025-03-28/1222921458.PDF",
+          "title": "生益电子2024年年度报告",
+          "publishedAt": "2025-03-28"
+        }
+      ],
+      "aliases": [],
+      "reviewedAt": "2026-08-31"
+    },
+    {
+      "code": "002436",
+      "name": "兴森科技",
+      "sector": "pcb-copper",
+      "role": "candidate",
+      "thesis": "PCB及封装基板供应商，FCBGA产品覆盖服务器、AI芯片和交换芯片配套。",
+      "evidence": "投资者活动披露FCBGA项目处于小批量生产及客户认证阶段，样品用于多类计算和通信芯片。",
+      "risk": "关注基板认证、良率、量产爬坡及折旧负担，不能把规划产能视为实际销售。",
+      "stage": "PCB主业成熟，FCBGA认证及爬坡",
+      "sources": [
+        {
+          "url": "https://static.cninfo.com.cn/finalpage/2025-01-21/1222390266.PDF",
+          "title": "兴森科技投资者关系活动记录",
+          "publishedAt": "2025-01-21"
+        }
+      ],
+      "aliases": [],
+      "reviewedAt": "2026-08-31"
+    },
+    {
+      "code": "002815",
+      "name": "崇达技术",
+      "sector": "pcb-copper",
+      "role": "candidate",
+      "thesis": "PCB和封装基板厂商，服务器板、存储板和交换机板构成相关业务。",
+      "evidence": "2025年董事会报告列明服务器客户及服务器主板、GPU和存储设备应用。",
+      "risk": "产品覆盖多个行业，算力相关占比及高端产品导入仍需持续核验。",
+      "stage": "已披露产品或业务",
+      "sources": [
+        {
+          "url": "https://static.cninfo.com.cn/finalpage/2026-04-29/1225231066.PDF",
+          "title": "崇达技术2025年度董事会工作报告",
+          "publishedAt": "2026-04-29"
+        }
+      ],
+      "aliases": [],
+      "reviewedAt": "2026-08-31"
+    },
+    {
+      "code": "603186",
+      "name": "华正新材",
+      "sector": "pcb-copper",
+      "role": "candidate",
+      "thesis": "高频高速覆铜板供应商，相关材料面向AI服务器、交换机和光模块。",
+      "evidence": "半年报披露高速覆铜板应用领域，以及部分低损耗材料的批量销售和客户认证。",
+      "risk": "不同材料等级所处认证阶段不同，不统一视为高端产品已全面放量。",
+      "stage": "已披露产品或业务",
+      "sources": [
+        {
+          "url": "https://static.cninfo.com.cn/finalpage/2025-08-22/1224532737.PDF",
+          "title": "华正新材2025年半年度报告",
+          "publishedAt": "2025-08-22"
+        }
+      ],
+      "aliases": [],
+      "reviewedAt": "2026-08-31"
+    },
+    {
+      "code": "688519",
+      "name": "南亚新材",
+      "sector": "pcb-copper",
+      "role": "candidate",
+      "thesis": "覆铜板及粘结片供应商，覆盖高速传输和IC封装基材。",
+      "evidence": "交易所问询回复披露现有高频高速板和IC封装基材业务，以及高速材料扩产方向。",
+      "risk": "新增募投产能与现有收入需要区分，关注高等级材料客户认证和竞争。",
+      "stage": "已披露产品或业务",
+      "sources": [
+        {
+          "url": "https://static.sse.com.cn/stock/disclosure/announcement/c/202605/688519_20260512_ZH1F.pdf",
+          "title": "南亚新材交易所披露文件：高频高速材料募投说明",
+          "publishedAt": "2026-05-12"
+        }
+      ],
+      "aliases": [],
+      "reviewedAt": "2026-08-31"
+    },
+    {
+      "code": "002130",
+      "name": "沃尔核材",
+      "sector": "pcb-copper",
+      "role": "candidate",
+      "thesis": "旗下乐庭智联经营高速通信线缆，参与数据中心和高性能计算铜互联。",
+      "evidence": "2025年报披露通信线缆业务与数据中心、高性能计算需求相关。",
+      "risk": "上市公司还经营热缩材料等业务；不能把高速线缆子公司业务等同集团全部收入。",
+      "stage": "已披露产品或业务",
+      "sources": [
+        {
+          "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0331/2026033103351_c.pdf",
+          "title": "沃尔核材2025年年度报告",
+          "publishedAt": "2026-03-31"
+        }
+      ],
+      "aliases": [],
+      "reviewedAt": "2026-08-31"
+    },
+    {
+      "code": "688668",
+      "name": "鼎通科技",
+      "sector": "pcb-copper",
+      "role": "candidate",
+      "thesis": "高速通讯连接器及组件供应商，覆盖背板、I/O和高速铜缆连接。",
+      "evidence": "半年报披露产品用于服务器和数据中心，224G及液冷散热器在当期开始小批量生产。",
+      "risk": "速率升级、客户认证和量产阶段分别跟踪；保留汽车连接器业务的边界。",
+      "stage": "已披露产品或业务",
+      "sources": [
+        {
+          "url": "https://static.cninfo.com.cn/finalpage/2025-07-31/1224342166.PDF",
+          "title": "鼎通科技2025年半年度报告",
+          "publishedAt": "2025-07-31"
+        }
+      ],
+      "aliases": [],
+      "reviewedAt": "2026-08-31"
+    },
+    {
+      "code": "300563",
+      "name": "神宇股份",
+      "sector": "pcb-copper",
+      "role": "candidate",
+      "thesis": "通信线缆厂商，DAC及高速数据线用于服务器数据传输和存储互联。",
+      "evidence": "半年报披露DAC高速数据线持续量产，并开发PCIe 5.0及6.0相关产品。",
+      "risk": "同时经营射频同轴及汽车线缆，不能将全部线缆业务视为数据中心铜互联收入。",
+      "stage": "已披露产品或业务",
+      "sources": [
+        {
+          "url": "https://static.cninfo.com.cn/finalpage/2025-08-27/1224577238.PDF",
+          "title": "神宇股份2025年半年度报告",
+          "publishedAt": "2025-08-27"
+        }
+      ],
+      "aliases": [],
+      "reviewedAt": "2026-08-31"
+    },
+    {
+      "code": "002179",
+      "name": "中航光电",
+      "sector": "pcb-copper",
+      "role": "candidate",
+      "thesis": "连接器及互连组件厂商，数据中心配套覆盖高速、电源、光纤及液冷连接。",
+      "evidence": "2025年报披露数据中心产品应用及与服务器、运营商和互联网客户合作。",
+      "risk": "防务等多领域业务并存；按数据中心互连候选收录，不将集团收入全部归因于AI。",
+      "stage": "已披露产品或业务",
+      "sources": [
+        {
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12032370",
+          "title": "中航光电2025年年度报告（新浪转载）",
+          "publishedAt": "2026-03-28"
+        }
+      ],
+      "aliases": [],
+      "reviewedAt": "2026-08-31"
+    },
+    {
+      "code": "603118",
+      "name": "共进股份",
+      "sector": "network",
+      "role": "candidate",
+      "thesis": "网络设备研发制造商，覆盖高速数据中心交换机及数通产品。",
+      "evidence": "2025年报摘要披露100G至800G数据中心交换机代工经验及服务器业务。",
+      "risk": "主要为设备研发制造及代工，不将其描述为自主交换芯片设计龙头。",
+      "stage": "已披露产品或业务",
+      "sources": [
+        {
+          "url": "https://static.cninfo.com.cn/finalpage/2026-04-25/1225188184.PDF",
+          "title": "共进股份2025年年度报告摘要",
+          "publishedAt": "2026-04-25"
+        }
+      ],
+      "aliases": [],
+      "reviewedAt": "2026-08-31"
+    },
+    {
+      "code": "603496",
+      "name": "恒为科技",
+      "sector": "network",
+      "role": "candidate",
+      "thesis": "提供网络交换硬件和智能系统平台，布局智算交换机及集群交付。",
+      "evidence": "2025年报披露园区、数据中心及白盒交换机产品，智算交换机已初步投放云客户。",
+      "risk": "智算业务订单波动较大；初步应用与规模化收入分开判断。",
+      "stage": "已披露产品或业务",
+      "sources": [
+        {
+          "url": "https://static.cninfo.com.cn/finalpage/2026-04-17/1225111374.PDF",
+          "title": "恒为科技2025年年度报告",
+          "publishedAt": "2026-04-17"
+        }
+      ],
+      "aliases": [],
+      "reviewedAt": "2026-08-31"
+    },
+    {
+      "code": "300602",
+      "name": "飞荣达",
+      "sector": "cooling",
+      "role": "candidate",
+      "thesis": "热管理及电磁屏蔽厂商，为服务器和数据中心提供液冷及散热产品。",
+      "evidence": "半年报产品表列明服务器液冷、热管及VC等散热方案。",
+      "risk": "多类终端业务并存，应分别跟踪服务器散热收入、订单及产品认证。",
+      "stage": "已披露产品或业务",
+      "sources": [
+        {
+          "url": "https://static.cninfo.com.cn/finalpage/2025-08-19/1224504291.pdf",
+          "title": "飞荣达2025年半年度报告",
+          "publishedAt": "2025-08-19"
+        }
+      ],
+      "aliases": [],
+      "reviewedAt": "2026-08-31"
+    },
+    {
+      "code": "301128",
+      "name": "强瑞技术",
+      "sector": "cooling",
+      "role": "candidate",
+      "thesis": "提供液冷服务器检测设备及散热器，覆盖液冷制造和验证配套。",
+      "evidence": "投资者活动披露液冷检测设备已有客户，散热器取得部分小批量试制通知。",
+      "risk": "检测设备与散热器是不同业务；试制通知不等于量产订单或确认收入。",
+      "stage": "检测业务已开展，部分散热器试制",
+      "sources": [
+        {
+          "url": "https://static.cninfo.com.cn/finalpage/2025-03-03/1222691818.PDF",
+          "title": "强瑞技术投资者关系活动记录",
+          "publishedAt": "2025-03-03"
+        }
+      ],
+      "aliases": [],
+      "reviewedAt": "2026-08-31"
+    },
+    {
+      "code": "002126",
+      "name": "银轮股份",
+      "sector": "cooling",
+      "role": "candidate",
+      "thesis": "热管理厂商，拓展数据中心液冷模组用板式换热器及零部件。",
+      "evidence": "2026年投资者交流明确数据中心液冷模组零部件定位，以板式换热器切入客户。",
+      "risk": "该方向仍在客户拓展及验证阶段，汽车热管理主业不能等同成熟数据中心液冷收入。",
+      "stage": "客户拓展及验证",
+      "sources": [
+        {
+          "url": "https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12369445&stockid=002126",
+          "title": "银轮股份投资者关系活动记录（新浪转载）",
+          "publishedAt": "2026-06-02"
+        }
+      ],
+      "aliases": [],
+      "reviewedAt": "2026-08-31"
+    },
+    {
+      "code": "603887",
+      "name": "城地香江",
+      "sector": "idc",
+      "role": "candidate",
+      "thesis": "通过香江科技等业务提供IDC建设、系统集成和数据中心服务。",
+      "evidence": "半年报披露数据中心工程交付及IDC项目，机电交付后仍需经历上电计费。",
+      "risk": "建设订单、机电交付、上架计费和现金回款不是同一口径，关注资本投入与回收。",
+      "stage": "已披露产品或业务",
+      "sources": [
+        {
+          "url": "https://static.cninfo.com.cn/finalpage/2025-08-30/1224627398.PDF",
+          "title": "城地香江2025年半年度报告",
+          "publishedAt": "2025-08-30"
+        }
+      ],
+      "aliases": [],
+      "reviewedAt": "2026-08-31"
+    },
+    {
+      "code": "300895",
+      "name": "铜牛信息",
+      "sector": "idc",
+      "role": "candidate",
+      "thesis": "依托自建数据中心和云平台，提供IDC托管、云资源及运维服务。",
+      "evidence": "半年报披露北京运营数据中心及IDC、IaaS和私有云服务能力。",
+      "risk": "新建基地与现有运营资源需区分，关注机柜利用率、交付和盈利能力。",
+      "stage": "已披露产品或业务",
+      "sources": [
+        {
+          "url": "https://static.cninfo.com.cn/finalpage/2025-08-26/1224568573.PDF",
+          "title": "铜牛信息2025年半年度报告",
+          "publishedAt": "2025-08-26"
+        }
+      ],
+      "aliases": [],
+      "reviewedAt": "2026-08-31"
+    },
+    {
+      "code": "600602",
+      "name": "云赛智联",
+      "sector": "idc",
+      "role": "candidate",
+      "thesis": "数据中心及云服务企业，业务包含IDC基础设施、IaaS和算力服务。",
+      "evidence": "半年报将IDC和算力列入租赁及技术服务业务，并披露上海算力布局。",
+      "risk": "同时经营软硬件销售和行业解决方案，本条仅跟踪数据中心基础设施业务。",
+      "stage": "已披露产品或业务",
+      "sources": [
+        {
+          "url": "https://static.cninfo.com.cn/finalpage/2025-08-23/1224556506.PDF",
+          "title": "云赛智联2025年半年度报告",
+          "publishedAt": "2025-08-23"
+        }
+      ],
+      "aliases": [],
+      "reviewedAt": "2026-08-31"
+    },
+    {
+      "code": "688676",
+      "name": "金盘科技",
+      "sector": "power",
+      "role": "candidate",
+      "thesis": "提供干式变压器及成套配电产品，服务数据中心和AIDC供配电。",
+      "evidence": "2025年报披露数据中心项目应用，并介绍HVDC、SST等后续技术布局。",
+      "risk": "成熟变配电产品与前瞻电源技术分开评估，研发方向不能视为已形成规模收入。",
+      "stage": "已披露产品或业务",
+      "sources": [
+        {
+          "url": "https://static.cninfo.com.cn/finalpage/2026-03-21/1225021733.PDF",
+          "title": "金盘科技2025年年度报告",
+          "publishedAt": "2026-03-21"
+        }
+      ],
+      "aliases": [],
+      "reviewedAt": "2026-08-31"
+    },
+    {
+      "code": "002334",
+      "name": "英威腾",
+      "sector": "power",
+      "role": "candidate",
+      "thesis": "网络能源产品覆盖UPS、配电及数据中心微模块，提供机房供电保障。",
+      "evidence": "2024年报披露网络能源业务覆盖UPS、关键供电、温控、微模块及液冷数据中心解决方案。",
+      "risk": "同时经营工业自动化等业务，不将全部业务规模视为算力电源收入。",
+      "stage": "已披露产品或业务",
+      "sources": [
+        {
+          "url": "https://static.cninfo.com.cn/finalpage/2025-04-08/1223021960.PDF",
+          "title": "英威腾2024年年度报告",
+          "publishedAt": "2025-04-08"
+        }
+      ],
+      "aliases": [],
+      "reviewedAt": "2026-08-31"
+    },
+    {
+      "code": "002922",
+      "name": "伊戈尔",
+      "sector": "power",
+      "role": "candidate",
+      "thesis": "磁性器件和电源厂商，数据中心配套包括移相、干式及油浸式变压器。",
+      "evidence": "2025年报披露数据中心产品线及向巴拿马电源成套方案拓展。",
+      "risk": "变压器供货与成套方案导入阶段不同，同时保留新能源等其他业务边界。",
+      "stage": "已披露产品或业务",
+      "sources": [
+        {
+          "url": "https://disc.static.szse.cn/disc/disk03/finalpage/2026-03-31/129d7d52-9e9c-4540-8376-918331a544d4.PDF",
+          "title": "伊戈尔2025年年度报告",
+          "publishedAt": "2026-03-31"
+        }
+      ],
+      "aliases": [],
+      "reviewedAt": "2026-08-31"
+    },
+    {
+      "code": "300017",
+      "name": "网宿科技",
+      "sector": "cloud",
+      "role": "candidate",
+      "thesis": "以分布式网络节点提供CDN和边缘计算服务，补充云边协同基础设施。",
+      "evidence": "2025年报披露全球边缘节点和包含边缘计算的服务矩阵。",
+      "risk": "以CDN、边缘云等服务为主，不等同于大规模GPU训练云或AI软件应用公司。",
+      "stage": "已披露产品或业务",
+      "sources": [
+        {
+          "url": "https://static.cninfo.com.cn/finalpage/2026-04-15/1225101555.PDF",
+          "title": "网宿科技2025年年度报告",
+          "publishedAt": "2026-04-15"
+        }
+      ],
+      "aliases": [],
+      "reviewedAt": "2026-08-31"
+    },
+    {
+      "code": "300454",
+      "name": "深信服",
+      "sector": "cloud",
+      "role": "candidate",
+      "thesis": "旗下信服云提供超融合、分布式存储、私有云、托管云及算力平台。",
+      "evidence": "官网信服云产品页列明云基础设施、AICP算力平台与托管云服务。",
+      "risk": "按云基础设施收录，网络安全和桌面云等业务不自动归入GPU算力收入。",
+      "stage": "已披露产品或业务",
+      "sources": [
+        {
+          "url": "https://www.sangfor.com.cn/sangfor-cloud",
+          "title": "深信服官网：信服云产品及业务图谱",
+          "publishedAt": null
+        }
+      ],
+      "aliases": [],
+      "reviewedAt": "2026-08-31"
+    },
+    {
+      "code": "300604",
+      "name": "长川科技",
+      "sector": "semi-equipment",
+      "role": "candidate",
+      "thesis": "集成电路测试设备厂商，产品覆盖SoC测试、分选及系统级测试配套。",
+      "evidence": "半年报列明数字逻辑和微处理器测试机，以及面向网络芯片的测试分选设备。",
+      "risk": "覆盖多类芯片测试；算力关联来自上游测试设备，不代表只服务AI芯片。",
+      "stage": "已披露产品或业务",
+      "sources": [
+        {
+          "url": "https://static.cninfo.com.cn/finalpage/2025-07-22/1224237926.PDF",
+          "title": "长川科技2025年半年度报告",
+          "publishedAt": "2025-07-22"
+        }
+      ],
+      "aliases": [],
+      "reviewedAt": "2026-08-31"
+    },
+    {
+      "code": "300567",
+      "name": "精测电子",
+      "sector": "semi-equipment",
+      "role": "candidate",
+      "thesis": "检测设备厂商，半导体业务覆盖晶圆制造量检测与测试环节。",
+      "evidence": "投资者活动披露半导体板块已有销售和在手订单，并说明产品认证与拓展。",
+      "risk": "显示检测业务仍占重要位置，半导体新设备认证和交付节奏须单独跟踪。",
+      "stage": "已披露产品或业务",
+      "sources": [
+        {
+          "url": "https://static.cninfo.com.cn/finalpage/2025-04-24/1223287695.PDF",
+          "title": "精测电子2025年度投资者关系活动记录",
+          "publishedAt": "2025-04-24"
+        }
+      ],
+      "aliases": [],
+      "reviewedAt": "2026-08-31"
+    },
+    {
+      "code": "688200",
+      "name": "华峰测控",
+      "sector": "semi-equipment",
+      "role": "candidate",
+      "thesis": "半导体自动化测试系统供应商，覆盖模拟、数模混合、功率与SoC芯片。",
+      "evidence": "2025年报披露自动化测试系统产品及在AI相关应用等下游领域的服务。",
+      "risk": "以半导体测试设备间接参与算力产业链，不将全部测试需求归为AI需求。",
+      "stage": "已披露产品或业务",
+      "sources": [
+        {
+          "url": "https://static.cninfo.com.cn/finalpage/2026-04-29/1225240540.PDF",
+          "title": "华峰测控2025年年度报告",
+          "publishedAt": "2026-04-29"
+        }
+      ],
+      "aliases": [],
+      "reviewedAt": "2026-08-31"
+    },
+    {
+      "code": "688361",
+      "name": "中科飞测",
+      "sector": "semi-equipment",
+      "role": "candidate",
+      "thesis": "提供晶圆缺陷检测及量测设备，服务前道制程和先进封装质量控制。",
+      "evidence": "官网产品目录列明缺陷检测、膜厚、关键尺寸及套刻等设备。",
+      "risk": "设备认证、客户资本开支及收入确认影响业务，未据此推定先进节点市场份额。",
+      "stage": "已披露产品或业务",
+      "sources": [
+        {
+          "url": "https://www.skyverse.cn/?trk=public_post-text",
+          "title": "中科飞测官网：产品中心与公司介绍",
+          "publishedAt": null
+        }
+      ],
+      "aliases": [],
+      "reviewedAt": "2026-08-31"
+    },
+    {
+      "code": "688147",
+      "name": "微导纳米",
+      "sector": "semi-equipment",
+      "role": "candidate",
+      "thesis": "以ALD为核心提供薄膜沉积设备，覆盖半导体及泛半导体制造。",
+      "evidence": "官网披露ALD、CVD真空薄膜产品体系，服务先进微纳薄膜加工。",
+      "risk": "光伏与半导体业务并存；半导体产品验证与收入需单独统计。",
+      "stage": "已披露产品或业务",
+      "sources": [
+        {
+          "url": "https://www.leadmicro.com/",
+          "title": "微导纳米官网：产品体系与公司介绍",
+          "publishedAt": null
+        }
+      ],
+      "aliases": [],
+      "reviewedAt": "2026-08-31"
+    },
+    {
+      "code": "603078",
+      "name": "江化微",
+      "sector": "semi-material",
+      "role": "candidate",
+      "thesis": "高纯湿电子化学品厂商，提供半导体清洗及光刻配套试剂。",
+      "evidence": "2025年报披露超净高纯和光刻胶配套业务，以及高等级电子化学品投产。",
+      "risk": "下游也覆盖显示和光伏，按半导体材料配套收录，不推定先进制程收入占比。",
+      "stage": "已披露产品或业务",
+      "sources": [
+        {
+          "url": "https://static.cninfo.com.cn/finalpage/2026-04-25/1225176561.PDF",
+          "title": "江化微2025年年度报告",
+          "publishedAt": "2026-04-25"
+        }
+      ],
+      "aliases": [],
+      "reviewedAt": "2026-08-31"
+    },
+    {
+      "code": "300236",
+      "name": "上海新阳",
+      "sector": "semi-material",
+      "role": "candidate",
+      "thesis": "提供晶圆制造及先进封装用电镀、清洗等电子化学材料。",
+      "evidence": "2025年报披露电镀填充、清洗和光刻胶等半导体工艺材料产品。",
+      "risk": "产品在研发、验证与量产阶段存在差异，不能将全部规划产品视为成熟销售。",
+      "stage": "已披露产品或业务",
+      "sources": [
+        {
+          "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=11992858&stockid=300236",
+          "title": "上海新阳2025年年度报告（新浪转载）",
+          "publishedAt": "2026-03-13"
+        }
+      ],
+      "aliases": [],
+      "reviewedAt": "2026-08-31"
+    },
+    {
+      "code": "688146",
+      "name": "中船特气",
+      "sector": "semi-material",
+      "role": "candidate",
+      "thesis": "电子特种气体供应商，参与晶圆制造所需工艺气体配套。",
+      "evidence": "2025年报披露电子特气主业及高纯电子气体、前驱体等产品布局。",
+      "risk": "气体适配的工艺及下游分布不同，规划项目与实际供货区分；关注安全及客户认证。",
+      "stage": "已披露产品或业务",
+      "sources": [
+        {
+          "url": "https://pdf.dfcfw.com/pdf/H2_AN202604201821340984_1.pdf?t=1778983582680",
+          "title": "中船特气2025年年度报告（东方财富转载）",
+          "publishedAt": "2026-04-21"
+        }
+      ],
+      "aliases": [],
+      "reviewedAt": "2026-08-31"
+    },
+    {
+      "code": "688106",
+      "name": "金宏气体",
+      "sector": "semi-material",
+      "role": "candidate",
+      "thesis": "气体供应商，电子特气及电子大宗载气业务服务半导体生产。",
+      "evidence": "公司2025H1经营资料列明超纯氨等电子特气和已运营半导体供气项目。",
+      "risk": "工业气体与半导体电子气体分开判断，项目签约不等于全部达产。",
+      "stage": "已披露产品或业务",
+      "sources": [
+        {
+          "url": "https://static.cninfo.com.cn/finalpage/2025-08-23/1224555184.PDF",
+          "title": "金宏气体2025H1经营资料",
+          "publishedAt": "2025-08-23"
+        }
+      ],
+      "aliases": [],
+      "reviewedAt": "2026-08-31"
+    },
+    {
+      "code": "688138",
+      "name": "清溢光电",
+      "sector": "semi-material",
+      "role": "candidate",
+      "thesis": "掩膜版供应商，半导体产品用于芯片制造及封装相关光刻环节。",
+      "evidence": "半年报披露半导体掩膜版销售及成熟节点产品交付。",
+      "risk": "显示掩膜版业务与半导体业务不同；成熟节点交付不能表述为先进GPU制程量产能力。",
+      "stage": "已披露产品或业务",
+      "sources": [
+        {
+          "url": "https://static.cninfo.com.cn/finalpage/2025-08-26/1224571814.PDF",
+          "title": "清溢光电2025年半年度报告",
+          "publishedAt": "2025-08-26"
+        }
+      ],
+      "aliases": [],
+      "reviewedAt": "2026-08-31"
+    },
+    {
+      "code": "300655",
+      "name": "晶瑞电材",
+      "sector": "semi-material",
+      "role": "candidate",
+      "thesis": "提供高纯湿电子化学品和光刻胶，参与半导体光刻、清洗和蚀刻配套。",
+      "evidence": "2025年报摘要列明电子化学品、光刻胶及其半导体工艺应用。",
+      "risk": "同时经营锂电材料等业务，先进光刻胶的研发目标不等于已全面商业供货。",
+      "stage": "已披露产品或业务",
+      "sources": [
+        {
+          "url": "https://disc.static.szse.cn/disc/disk03/finalpage/2026-04-28/7c1eb0c6-6c22-48d3-a4b3-cd803e979fcd.PDF",
+          "title": "晶瑞电材2025年年度报告摘要",
+          "publishedAt": "2026-04-28"
+        }
+      ],
+      "aliases": [],
+      "reviewedAt": "2026-08-31"
+    },
+    {
+      "code": "688401",
+      "name": "路维光电",
+      "sector": "semi-material",
+      "role": "candidate",
+      "thesis": "掩膜版厂商，半导体产品覆盖成熟制程及封装器件光刻需求。",
+      "evidence": "2025年报披露150nm量产和130nm小批量阶段，区分显示及半导体业务。",
+      "risk": "与国际先进制程能力仍有差距；不将成熟节点或规划节点视为先进AI芯片直接供应。",
+      "stage": "已披露产品或业务",
+      "sources": [
+        {
+          "url": "https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12102577&stockid=688401",
+          "title": "路维光电2025年年度报告（新浪转载）",
+          "publishedAt": "2026-04-17"
+        }
+      ],
+      "aliases": [],
+      "reviewedAt": "2026-08-31"
+    },
+    {
+      "code": "002929",
+      "name": "润建股份",
+      "sector": "compute-rental",
+      "role": "candidate",
+      "thesis": "运营五象云谷等算力资源，提供智算云及算力网络服务。",
+      "evidence": "2025年报摘要披露星算云池及五象云谷智算中心的算力服务。",
+      "risk": "通信和能源管维等业务并存，算力投资、利用率、客户合同及回款需持续跟踪。",
+      "stage": "已披露产品或业务",
+      "sources": [
+        {
+          "url": "https://static.cninfo.com.cn/finalpage/2026-04-27/1225195098.PDF",
+          "title": "润建股份2025年年度报告摘要",
+          "publishedAt": "2026-04-27"
+        }
+      ],
+      "aliases": [],
+      "reviewedAt": "2026-08-31"
+    },
+    {
+      "code": "300571",
+      "name": "平治信息",
+      "sector": "compute-rental",
+      "role": "candidate",
+      "thesis": "从通信设备拓展算力综合服务，采用按月或季度收费的算力输出模式。",
+      "evidence": "2025年报披露算力服务合同交付与2.8亿元算力收入，并说明服务模式切换。",
+      "risk": "2025年算力收入下降且公司亏损，资本投入及融资成本增加；合同总额不能视为当年收入。",
+      "stage": "已披露产品或业务",
+      "sources": [
+        {
+          "url": "https://static.cninfo.com.cn/finalpage/2026-04-29/1225238822.PDF",
+          "title": "平治信息2025年年度报告",
+          "publishedAt": "2026-04-29"
+        }
+      ],
+      "aliases": [],
+      "reviewedAt": "2026-08-31"
+    }
+  ],
+  "deferred": [
+    {
+      "code": "002843",
+      "name": "泰嘉股份",
+      "reason": "公告披露2025年数据中心电源业务占比约2.01%且未经审计，本轮暂缓纳入。",
+      "url": "https://static.cninfo.com.cn/finalpage/2026-03-02/1224989180.PDF"
+    },
+    {
+      "code": "300491",
+      "name": "通合科技",
+      "reason": "本轮取得的证据以数据中心供配电募投规划为主，尚需补充商业化交付证据。",
+      "url": "https://static.cninfo.com.cn/finalpage/2025-12-03/1224847985.PDF"
+    },
+    {
+      "code": "300153",
+      "name": "科泰电源",
+      "reason": "公司公告强调发电机组仅为数据中心备用电源，并非算力直接核心设备；保持当前核心产业范围。",
+      "url": "https://static.cninfo.com.cn/finalpage/2025-01-21/1222380438.PDF"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "path": "/",
+    "status": 200,
+    "bytes": 33627
+  },
+  {
+    "path": "/company/301308",
+    "status": 200,
+    "bytes": 37335,
+    "hasCode": true,
+    "hasResearch": true,
+    "hasName": true,
+    "hasEvidence": true,
+    "hasSource": true,
+    "hasRisk": true
+  },
+  {
+    "path": "/company/300548",
+    "status": 200,
+    "bytes": 37355,
+    "hasCode": true,
+    "hasResearch": true,
+    "hasName": true,
+    "hasEvidence": true,
+    "hasSource": true,
+    "hasRisk": true
+  },
+  {
+    "path": "/company/002126",
+    "status": 200,
+    "bytes": 37384,
+    "hasCode": true,
+    "hasResearch": true,
+    "hasName": true,
+    "hasEvidence": true,
+    "hasSource": true,
+    "hasRisk": true,
+    "sourceCheck": "HTML entities decoded before URL comparison"
+  },
+  {
+    "path": "/company/600498",
+    "status": 200,
+    "bytes": 35685,
+    "hasCode": true,
+    "hasResearch": false
+  },
+  {
+    "path": "/signals",
+    "status": 200,
+    "bytes": 32488
+  },
+  {
+    "path": "/news",
+    "status": 200,
+    "bytes": 32465
+  }
+]

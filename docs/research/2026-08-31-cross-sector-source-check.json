@@ -1,0 +1,368 @@
+{
+  "checkedAt": "2026-09-01",
+  "method": "HTTPS partial GET; one publisher reset was separately retrieved through web open",
+  "total": 59,
+  "directAccessible": 57,
+  "webVerified": 2,
+  "unverified": 0,
+  "results": [
+    {
+      "url": "https://big5.sse.com.cn/site/cht/www.sse.com.cn/disclosure/listedinfo/announcement/c/new/2025-07-05/603629_20250705_WXEC.pdf",
+      "direct": true,
+      "status": 206,
+      "finalUrl": "https://big5.sse.com.cn/site/cht/www.sse.com.cn/disclosure/listedinfo/announcement/c/new/2025-07-05/603629_20250705_WXEC.pdf"
+    },
+    {
+      "url": "https://dataclouds.cninfo.com.cn/shgonggao/hsomarket/2026/20260420/0a36d1c0a69d4de097573e6896499671.PDF",
+      "direct": true,
+      "status": 206,
+      "finalUrl": "https://dataclouds.cninfo.com.cn/shgonggao/hsomarket/2026/20260420/0a36d1c0a69d4de097573e6896499671.PDF"
+    },
+    {
+      "url": "https://dataclouds.cninfo.com.cn/shgonggao/hsomarket/2026/20260422/f2dfe708d7d34900a9844a78c07ee97f.PDF",
+      "direct": true,
+      "status": 206,
+      "finalUrl": "https://dataclouds.cninfo.com.cn/shgonggao/hsomarket/2026/20260422/f2dfe708d7d34900a9844a78c07ee97f.PDF"
+    },
+    {
+      "url": "https://disc.static.szse.cn/disc/disk03/finalpage/2026-03-17/de00e67a-e297-4386-a93d-157b53ccea1e.PDF",
+      "direct": true,
+      "status": 206,
+      "finalUrl": "https://disc.static.szse.cn/disc/disk03/finalpage/2026-03-17/de00e67a-e297-4386-a93d-157b53ccea1e.PDF"
+    },
+    {
+      "url": "https://disc.static.szse.cn/disc/disk03/finalpage/2026-04-01/a5c2cce7-b68d-4f79-afb3-56ffebcb1dc4.PDF",
+      "direct": true,
+      "status": 206,
+      "finalUrl": "https://disc.static.szse.cn/disc/disk03/finalpage/2026-04-01/a5c2cce7-b68d-4f79-afb3-56ffebcb1dc4.PDF"
+    },
+    {
+      "url": "https://disc.static.szse.cn/disc/disk03/finalpage/2026-04-18/72f7dce5-793c-4e52-aa33-9d6490bb6999.PDF",
+      "direct": true,
+      "status": 206,
+      "finalUrl": "https://disc.static.szse.cn/disc/disk03/finalpage/2026-04-18/72f7dce5-793c-4e52-aa33-9d6490bb6999.PDF"
+    },
+    {
+      "url": "https://disc.static.szse.cn/disc/disk03/finalpage/2026-04-23/2acfc390-1435-44ed-b41a-0a5de598cc72.PDF",
+      "direct": true,
+      "status": 206,
+      "finalUrl": "https://disc.static.szse.cn/disc/disk03/finalpage/2026-04-23/2acfc390-1435-44ed-b41a-0a5de598cc72.PDF"
+    },
+    {
+      "url": "https://disc.static.szse.cn/disc/disk03/finalpage/2026-04-29/6d360fb3-f33d-4a04-bcec-e3df52022761.PDF",
+      "direct": true,
+      "status": 206,
+      "finalUrl": "https://disc.static.szse.cn/disc/disk03/finalpage/2026-04-29/6d360fb3-f33d-4a04-bcec-e3df52022761.PDF"
+    },
+    {
+      "url": "https://disc.static.szse.cn/disc/disk03/finalpage/2026-04-29/dcb94eaf-2301-450a-81a9-b35ea4b51ead.PDF",
+      "direct": true,
+      "status": 206,
+      "finalUrl": "https://disc.static.szse.cn/disc/disk03/finalpage/2026-04-29/dcb94eaf-2301-450a-81a9-b35ea4b51ead.PDF"
+    },
+    {
+      "url": "https://disc.static.szse.cn/download/disc/disk03/finalpage/2026-04-27/f96936c0-5e22-4506-b577-d81d60182605.PDF",
+      "direct": true,
+      "status": 206,
+      "finalUrl": "https://disc.static.szse.cn/download/disc/disk03/finalpage/2026-04-27/f96936c0-5e22-4506-b577-d81d60182605.PDF"
+    },
+    {
+      "url": "https://disc.static.szse.cn/download/disc/disk03/finalpage/2026-06-13/3958939c-d022-4764-9d63-3c323d837c68.PDF",
+      "direct": true,
+      "status": 206,
+      "finalUrl": "https://disc.static.szse.cn/download/disc/disk03/finalpage/2026-06-13/3958939c-d022-4764-9d63-3c323d837c68.PDF"
+    },
+    {
+      "url": "https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=11990023&stockid=601138",
+      "direct": true,
+      "status": 200,
+      "finalUrl": "https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=11990023&stockid=601138"
+    },
+    {
+      "url": "https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12005771&stockid=600050",
+      "direct": true,
+      "status": 200,
+      "finalUrl": "https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12005771&stockid=600050"
+    },
+    {
+      "url": "https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12009661&stockid=688233",
+      "direct": true,
+      "status": 200,
+      "finalUrl": "https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12009661&stockid=688233"
+    },
+    {
+      "url": "https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12012333&stockid=603296",
+      "direct": true,
+      "status": 200,
+      "finalUrl": "https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12012333&stockid=603296"
+    },
+    {
+      "url": "https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12013734&stockid=601728",
+      "direct": true,
+      "status": 200,
+      "finalUrl": "https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12013734&stockid=601728"
+    },
+    {
+      "url": "https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12032370&stockid=002179",
+      "direct": true,
+      "status": 200,
+      "finalUrl": "https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12032370&stockid=002179"
+    },
+    {
+      "url": "https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12033181&stockid=300548",
+      "direct": true,
+      "status": 200,
+      "finalUrl": "https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12033181&stockid=300548"
+    },
+    {
+      "url": "https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12040275&stockid=600845",
+      "direct": true,
+      "status": 200,
+      "finalUrl": "https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12040275&stockid=600845"
+    },
+    {
+      "url": "https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12096894&stockid=300666",
+      "direct": true,
+      "status": 200,
+      "finalUrl": "https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12096894&stockid=300666"
+    },
+    {
+      "url": "https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12144230&stockid=603002",
+      "direct": true,
+      "status": 200,
+      "finalUrl": "https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12144230&stockid=603002"
+    },
+    {
+      "url": "https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12190970&stockid=603118",
+      "direct": true,
+      "status": 200,
+      "finalUrl": "https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12190970&stockid=603118"
+    },
+    {
+      "url": "https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12228350&stockid=603629",
+      "direct": true,
+      "status": 200,
+      "finalUrl": "https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12228350&stockid=603629"
+    },
+    {
+      "url": "https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12231953&stockid=002261",
+      "direct": true,
+      "status": 200,
+      "finalUrl": "https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12231953&stockid=002261"
+    },
+    {
+      "url": "https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12258084&stockid=002851",
+      "direct": true,
+      "status": 200,
+      "finalUrl": "https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12258084&stockid=002851"
+    },
+    {
+      "url": "https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12289849&stockid=603690",
+      "direct": true,
+      "status": 200,
+      "finalUrl": "https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12289849&stockid=603690"
+    },
+    {
+      "url": "https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12394457&stockid=688158",
+      "direct": true,
+      "status": 200,
+      "finalUrl": "https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12394457&stockid=688158"
+    },
+    {
+      "url": "https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12511133&stockid=002334",
+      "direct": true,
+      "status": 200,
+      "finalUrl": "https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12511133&stockid=002334"
+    },
+    {
+      "url": "https://paper.cnstock.com/html/2026-03/27/content_2192681.htm",
+      "direct": true,
+      "status": 200,
+      "finalUrl": "https://paper.cnstock.com/html/2026-03/27/content_2192681.htm"
+    },
+    {
+      "url": "https://paper.cnstock.com/html/2026-03/28/content_2192950.htm",
+      "direct": true,
+      "status": 200,
+      "finalUrl": "https://paper.cnstock.com/html/2026-03/28/content_2192950.htm"
+    },
+    {
+      "url": "https://paper.cnstock.com/html/2026-04/15/content_2199750.htm",
+      "direct": true,
+      "status": 200,
+      "finalUrl": "https://paper.cnstock.com/html/2026-04/15/content_2199750.htm"
+    },
+    {
+      "url": "https://paper.cnstock.com/html/2026-08/07/content_2252661.htm",
+      "direct": true,
+      "status": 200,
+      "finalUrl": "https://paper.cnstock.com/html/2026-08/07/content_2252661.htm"
+    },
+    {
+      "url": "https://pdf.dfcfw.com/pdf/H2_AN202603301820868317_1.pdf",
+      "direct": true,
+      "status": 206,
+      "finalUrl": "https://pdf.dfcfw.com/pdf/H2_AN202603301820868317_1.pdf"
+    },
+    {
+      "url": "https://pdf.dfcfw.com/pdf/H2_AN202604141821199286_1.pdf",
+      "direct": true,
+      "status": 206,
+      "finalUrl": "https://pdf.dfcfw.com/pdf/H2_AN202604141821199286_1.pdf"
+    },
+    {
+      "url": "https://static.cninfo.com.cn/finalpage/2025-04-08/1223021960.PDF",
+      "direct": true,
+      "status": 206,
+      "finalUrl": "https://static.cninfo.com.cn/finalpage/2025-04-08/1223021960.PDF"
+    },
+    {
+      "url": "https://static.cninfo.com.cn/finalpage/2025-08-29/1224612139.PDF",
+      "direct": true,
+      "status": 206,
+      "finalUrl": "https://static.cninfo.com.cn/finalpage/2025-08-29/1224612139.PDF"
+    },
+    {
+      "url": "https://static.cninfo.com.cn/finalpage/2026-03-20/1225019832.PDF",
+      "direct": true,
+      "status": 206,
+      "finalUrl": "https://static.cninfo.com.cn/finalpage/2026-03-20/1225019832.PDF"
+    },
+    {
+      "url": "https://static.cninfo.com.cn/finalpage/2026-03-20/1225020225.PDF",
+      "direct": true,
+      "status": 206,
+      "finalUrl": "https://static.cninfo.com.cn/finalpage/2026-03-20/1225020225.PDF"
+    },
+    {
+      "url": "https://static.cninfo.com.cn/finalpage/2026-03-31/1225056199.PDF",
+      "direct": true,
+      "status": 206,
+      "finalUrl": "https://static.cninfo.com.cn/finalpage/2026-03-31/1225056199.PDF"
+    },
+    {
+      "url": "https://static.cninfo.com.cn/finalpage/2026-04-15/1225101555.PDF",
+      "direct": true,
+      "status": 206,
+      "finalUrl": "https://static.cninfo.com.cn/finalpage/2026-04-15/1225101555.PDF"
+    },
+    {
+      "url": "https://static.cninfo.com.cn/finalpage/2026-04-17/1225111374.PDF",
+      "direct": true,
+      "status": 206,
+      "finalUrl": "https://static.cninfo.com.cn/finalpage/2026-04-17/1225111374.PDF"
+    },
+    {
+      "url": "https://static.cninfo.com.cn/finalpage/2026-04-22/1225139318.PDF",
+      "direct": true,
+      "status": 206,
+      "finalUrl": "https://static.cninfo.com.cn/finalpage/2026-04-22/1225139318.PDF"
+    },
+    {
+      "url": "https://static.cninfo.com.cn/finalpage/2026-04-23/1225156951.PDF",
+      "direct": true,
+      "status": 206,
+      "finalUrl": "https://static.cninfo.com.cn/finalpage/2026-04-23/1225156951.PDF"
+    },
+    {
+      "url": "https://static.cninfo.com.cn/finalpage/2026-04-27/1225194937.PDF",
+      "direct": true,
+      "status": 206,
+      "finalUrl": "https://static.cninfo.com.cn/finalpage/2026-04-27/1225194937.PDF"
+    },
+    {
+      "url": "https://static.cninfo.com.cn/finalpage/2026-04-29/1225238822.PDF",
+      "direct": true,
+      "status": 206,
+      "finalUrl": "https://static.cninfo.com.cn/finalpage/2026-04-29/1225238822.PDF"
+    },
+    {
+      "url": "https://static.cninfo.com.cn/finalpage/2026-04-29/1225248531.PDF",
+      "direct": true,
+      "status": 206,
+      "finalUrl": "https://static.cninfo.com.cn/finalpage/2026-04-29/1225248531.PDF"
+    },
+    {
+      "url": "https://support.sangfor.com.cn/productDocument/read?category_id=239261&product_id=33&type=1&version_id=801",
+      "direct": true,
+      "status": 200,
+      "finalUrl": "https://support.sangfor.com.cn/productDocument/read?category_id=239261&product_id=33&type=1&version_id=801"
+    },
+    {
+      "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?CompanyCode=80381301&gather=1&id=12540445",
+      "direct": true,
+      "status": 200,
+      "finalUrl": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?CompanyCode=80381301&gather=1&id=12540445"
+    },
+    {
+      "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12032491",
+      "direct": true,
+      "status": 200,
+      "finalUrl": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12032491"
+    },
+    {
+      "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12394452",
+      "direct": true,
+      "status": 200,
+      "finalUrl": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12394452"
+    },
+    {
+      "url": "https://www.embedway.com/intelligent",
+      "direct": true,
+      "status": 200,
+      "finalUrl": "https://www.embedway.com/intelligent"
+    },
+    {
+      "url": "https://www.fiberhome.com/wlnysjzx.html",
+      "direct": true,
+      "status": 206,
+      "finalUrl": "https://www.fiberhome.com/wlnysjzx.html"
+    },
+    {
+      "url": "https://www.fiberhome.com/xwzx/20251031/47487.html",
+      "direct": false,
+      "error": "URLError: <urlopen error [Errno 54] Connection reset by peer>",
+      "webRetrieved": true,
+      "webRetrievedAt": "2026-09-01",
+      "note": "publisher reset partial-GET; page retrieved through web index and open"
+    },
+    {
+      "url": "https://www.fiberhome.com/yl21/20230104/42217.html",
+      "direct": false,
+      "error": "URLError: <urlopen error [Errno 54] Connection reset by peer>",
+      "webRetrieved": true,
+      "webRetrievedAt": "2026-09-01",
+      "note": "publisher reset partial-GET; page retrieved through web search"
+    },
+    {
+      "url": "https://www.fiberhome.com/ypt.html",
+      "direct": true,
+      "status": 206,
+      "finalUrl": "https://www.fiberhome.com/ypt.html"
+    },
+    {
+      "url": "https://www.h3c.com/cn/d_202605/2887973_473262_0.htm",
+      "direct": true,
+      "status": 206,
+      "finalUrl": "https://www.h3c.com/cn/d_202605/2887973_473262_0.htm"
+    },
+    {
+      "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0402/2026040203301_c.pdf",
+      "direct": true,
+      "status": 206,
+      "finalUrl": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0402/2026040203301_c.pdf"
+    },
+    {
+      "url": "https://www.ieisystem.com/product/liquidcooling/",
+      "direct": true,
+      "status": 206,
+      "finalUrl": "https://www.ieisystem.com/product/liquidcooling/"
+    },
+    {
+      "url": "https://www.kstar.com/cn/index.php/news/info/1272.html",
+      "direct": true,
+      "status": 200,
+      "finalUrl": "https://www.kstar.com/cn/index.php/news/info/1272.html"
+    }
+  ]
+}

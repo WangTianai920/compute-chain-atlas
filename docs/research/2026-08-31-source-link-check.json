@@ -1,0 +1,427 @@
+{
+  "checkedAt": "2026-08-31T21:43:27.547024",
+  "method": "HTTP HEAD; accessibility only, not a replacement for source-content review",
+  "results": [
+    {
+      "code": "300458",
+      "name": "全志科技",
+      "url": "https://www.allwinnertech.com/index.php?a=index&c=news&id=424",
+      "method": "GET first 2KB",
+      "status": 200,
+      "finalUrl": "https://www.allwinnertech.com/index.php?a=index&c=news&id=424",
+      "contentType": "text/html; charset=utf-8",
+      "previousCheck": {
+        "code": "300458",
+        "name": "全志科技",
+        "url": "https://www.allwinnertech.com/index.php?a=index&c=news&id=424",
+        "error": "The read operation timed out"
+      }
+    },
+    {
+      "code": "688521",
+      "name": "芯原股份",
+      "url": "https://static.cninfo.com.cn/finalpage/2025-08-23/1224555805.PDF",
+      "status": 200,
+      "finalUrl": "https://static.cninfo.com.cn/finalpage/2025-08-23/1224555805.PDF",
+      "contentType": "application/pdf"
+    },
+    {
+      "code": "301536",
+      "name": "星宸科技",
+      "url": "https://static.cninfo.com.cn/finalpage/2026-03-10/1225001998.PDF",
+      "status": 200,
+      "finalUrl": "https://static.cninfo.com.cn/finalpage/2026-03-10/1225001998.PDF",
+      "contentType": "application/pdf"
+    },
+    {
+      "code": "301308",
+      "name": "江波龙",
+      "url": "https://static.cninfo.com.cn/finalpage/2026-05-07/1225283135.PDF",
+      "status": 200,
+      "finalUrl": "https://static.cninfo.com.cn/finalpage/2026-05-07/1225283135.PDF",
+      "contentType": "application/pdf"
+    },
+    {
+      "code": "688110",
+      "name": "东芯股份",
+      "url": "https://static.cninfo.com.cn/finalpage/2025-08-23/1224559464.PDF",
+      "status": 200,
+      "finalUrl": "https://static.cninfo.com.cn/finalpage/2025-08-23/1224559464.PDF",
+      "contentType": "application/pdf"
+    },
+    {
+      "code": "688416",
+      "name": "恒烁股份",
+      "url": "https://static.cninfo.com.cn/finalpage/2025-04-26/1223309621.PDF",
+      "method": "GET first 2KB",
+      "status": 200,
+      "finalUrl": "https://static.cninfo.com.cn/finalpage/2025-04-26/1223309621.PDF",
+      "contentType": "application/pdf",
+      "previousCheck": {
+        "code": "688416",
+        "name": "恒烁股份",
+        "url": "https://dataclouds.cninfo.com.cn/shgonggao/2025/2025-04-26/e772b9da21be11f08853fa163e957f7a.pdf",
+        "error": "HTTP Error 403: Forbidden"
+      }
+    },
+    {
+      "code": "000034",
+      "name": "神州数码",
+      "url": "https://static.cninfo.com.cn/finalpage/2026-03-31/1225058635.PDF",
+      "status": 200,
+      "finalUrl": "https://static.cninfo.com.cn/finalpage/2026-03-31/1225058635.PDF",
+      "contentType": "application/pdf"
+    },
+    {
+      "code": "000066",
+      "name": "中国长城",
+      "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12262270",
+      "status": 200,
+      "finalUrl": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12262270",
+      "contentType": "text/html; charset=gbk"
+    },
+    {
+      "code": "300548",
+      "name": "长芯博创",
+      "url": "https://static.cninfo.com.cn/finalpage/2025-03-28/1222925704.PDF",
+      "status": 200,
+      "finalUrl": "https://static.cninfo.com.cn/finalpage/2025-03-28/1222925704.PDF",
+      "contentType": "application/pdf"
+    },
+    {
+      "code": "300570",
+      "name": "太辰光",
+      "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12496629&stockid=300570",
+      "status": 200,
+      "finalUrl": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12496629&stockid=300570",
+      "contentType": "text/html; charset=gbk"
+    },
+    {
+      "code": "300620",
+      "name": "光库科技",
+      "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12012908&stockid=300620",
+      "status": 200,
+      "finalUrl": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12012908&stockid=300620",
+      "contentType": "text/html; charset=gbk"
+    },
+    {
+      "code": "688195",
+      "name": "腾景科技",
+      "url": "https://static.cninfo.com.cn/finalpage/2025-08-30/1224622870.PDF",
+      "status": 200,
+      "finalUrl": "https://static.cninfo.com.cn/finalpage/2025-08-30/1224622870.PDF",
+      "contentType": "application/pdf"
+    },
+    {
+      "code": "603083",
+      "name": "剑桥科技",
+      "url": "https://static.cninfo.com.cn/finalpage/2025-11-25/1224824317.PDF",
+      "status": 200,
+      "finalUrl": "https://static.cninfo.com.cn/finalpage/2025-11-25/1224824317.PDF",
+      "contentType": "application/pdf"
+    },
+    {
+      "code": "603228",
+      "name": "景旺电子",
+      "url": "https://static.cninfo.com.cn/finalpage/2025-08-30/1224623843.PDF",
+      "status": 200,
+      "finalUrl": "https://static.cninfo.com.cn/finalpage/2025-08-30/1224623843.PDF",
+      "contentType": "application/pdf"
+    },
+    {
+      "code": "688183",
+      "name": "生益电子",
+      "url": "https://static.cninfo.com.cn/finalpage/2025-03-28/1222921458.PDF",
+      "status": 200,
+      "finalUrl": "https://static.cninfo.com.cn/finalpage/2025-03-28/1222921458.PDF",
+      "contentType": "application/pdf"
+    },
+    {
+      "code": "002436",
+      "name": "兴森科技",
+      "url": "https://static.cninfo.com.cn/finalpage/2025-01-21/1222390266.PDF",
+      "status": 200,
+      "finalUrl": "https://static.cninfo.com.cn/finalpage/2025-01-21/1222390266.PDF",
+      "contentType": "application/pdf"
+    },
+    {
+      "code": "002815",
+      "name": "崇达技术",
+      "url": "https://static.cninfo.com.cn/finalpage/2026-04-29/1225231066.PDF",
+      "status": 200,
+      "finalUrl": "https://static.cninfo.com.cn/finalpage/2026-04-29/1225231066.PDF",
+      "contentType": "application/pdf"
+    },
+    {
+      "code": "603186",
+      "name": "华正新材",
+      "url": "https://static.cninfo.com.cn/finalpage/2025-08-22/1224532737.PDF",
+      "status": 200,
+      "finalUrl": "https://static.cninfo.com.cn/finalpage/2025-08-22/1224532737.PDF",
+      "contentType": "application/pdf"
+    },
+    {
+      "code": "688519",
+      "name": "南亚新材",
+      "url": "https://static.sse.com.cn/stock/disclosure/announcement/c/202605/688519_20260512_ZH1F.pdf",
+      "status": 200,
+      "finalUrl": "https://static.sse.com.cn/stock/disclosure/announcement/c/202605/688519_20260512_ZH1F.pdf",
+      "contentType": "application/pdf"
+    },
+    {
+      "code": "002130",
+      "name": "沃尔核材",
+      "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0331/2026033103351_c.pdf",
+      "status": 200,
+      "finalUrl": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0331/2026033103351_c.pdf",
+      "contentType": "application/pdf"
+    },
+    {
+      "code": "688668",
+      "name": "鼎通科技",
+      "url": "https://static.cninfo.com.cn/finalpage/2025-07-31/1224342166.PDF",
+      "status": 200,
+      "finalUrl": "https://static.cninfo.com.cn/finalpage/2025-07-31/1224342166.PDF",
+      "contentType": "application/pdf"
+    },
+    {
+      "code": "300563",
+      "name": "神宇股份",
+      "url": "https://static.cninfo.com.cn/finalpage/2025-08-27/1224577238.PDF",
+      "status": 200,
+      "finalUrl": "https://static.cninfo.com.cn/finalpage/2025-08-27/1224577238.PDF",
+      "contentType": "application/pdf"
+    },
+    {
+      "code": "002179",
+      "name": "中航光电",
+      "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12032370",
+      "status": 200,
+      "finalUrl": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12032370",
+      "contentType": "text/html; charset=gbk"
+    },
+    {
+      "code": "603118",
+      "name": "共进股份",
+      "url": "https://static.cninfo.com.cn/finalpage/2026-04-25/1225188184.PDF",
+      "status": 200,
+      "finalUrl": "https://static.cninfo.com.cn/finalpage/2026-04-25/1225188184.PDF",
+      "contentType": "application/pdf"
+    },
+    {
+      "code": "603496",
+      "name": "恒为科技",
+      "url": "https://static.cninfo.com.cn/finalpage/2026-04-17/1225111374.PDF",
+      "status": 200,
+      "finalUrl": "https://static.cninfo.com.cn/finalpage/2026-04-17/1225111374.PDF",
+      "contentType": "application/pdf"
+    },
+    {
+      "code": "300602",
+      "name": "飞荣达",
+      "url": "https://static.cninfo.com.cn/finalpage/2025-08-19/1224504291.pdf",
+      "status": 200,
+      "finalUrl": "https://static.cninfo.com.cn/finalpage/2025-08-19/1224504291.pdf",
+      "contentType": "application/pdf"
+    },
+    {
+      "code": "301128",
+      "name": "强瑞技术",
+      "url": "https://static.cninfo.com.cn/finalpage/2025-03-03/1222691818.PDF",
+      "status": 200,
+      "finalUrl": "https://static.cninfo.com.cn/finalpage/2025-03-03/1222691818.PDF",
+      "contentType": "application/pdf"
+    },
+    {
+      "code": "002126",
+      "name": "银轮股份",
+      "url": "https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12369445&stockid=002126",
+      "status": 200,
+      "finalUrl": "https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12369445&stockid=002126",
+      "contentType": "text/html; charset=gbk"
+    },
+    {
+      "code": "603887",
+      "name": "城地香江",
+      "url": "https://static.cninfo.com.cn/finalpage/2025-08-30/1224627398.PDF",
+      "status": 200,
+      "finalUrl": "https://static.cninfo.com.cn/finalpage/2025-08-30/1224627398.PDF",
+      "contentType": "application/pdf"
+    },
+    {
+      "code": "300895",
+      "name": "铜牛信息",
+      "url": "https://static.cninfo.com.cn/finalpage/2025-08-26/1224568573.PDF",
+      "status": 200,
+      "finalUrl": "https://static.cninfo.com.cn/finalpage/2025-08-26/1224568573.PDF",
+      "contentType": "application/pdf"
+    },
+    {
+      "code": "600602",
+      "name": "云赛智联",
+      "url": "https://static.cninfo.com.cn/finalpage/2025-08-23/1224556506.PDF",
+      "status": 200,
+      "finalUrl": "https://static.cninfo.com.cn/finalpage/2025-08-23/1224556506.PDF",
+      "contentType": "application/pdf"
+    },
+    {
+      "code": "688676",
+      "name": "金盘科技",
+      "url": "https://static.cninfo.com.cn/finalpage/2026-03-21/1225021733.PDF",
+      "status": 200,
+      "finalUrl": "https://static.cninfo.com.cn/finalpage/2026-03-21/1225021733.PDF",
+      "contentType": "application/pdf"
+    },
+    {
+      "code": "002334",
+      "name": "英威腾",
+      "url": "https://static.cninfo.com.cn/finalpage/2025-04-08/1223021960.PDF",
+      "method": "GET first 2KB",
+      "status": 200,
+      "finalUrl": "https://static.cninfo.com.cn/finalpage/2025-04-08/1223021960.PDF",
+      "contentType": "application/pdf",
+      "previousCheck": {
+        "code": "002334",
+        "name": "英威腾",
+        "url": "https://www.invt.com.cn/ups-8",
+        "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)>"
+      }
+    },
+    {
+      "code": "002922",
+      "name": "伊戈尔",
+      "url": "https://disc.static.szse.cn/disc/disk03/finalpage/2026-03-31/129d7d52-9e9c-4540-8376-918331a544d4.PDF",
+      "status": 200,
+      "finalUrl": "https://disc.static.szse.cn/disc/disk03/finalpage/2026-03-31/129d7d52-9e9c-4540-8376-918331a544d4.PDF",
+      "contentType": "application/pdf"
+    },
+    {
+      "code": "300017",
+      "name": "网宿科技",
+      "url": "https://static.cninfo.com.cn/finalpage/2026-04-15/1225101555.PDF",
+      "status": 200,
+      "finalUrl": "https://static.cninfo.com.cn/finalpage/2026-04-15/1225101555.PDF",
+      "contentType": "application/pdf"
+    },
+    {
+      "code": "300454",
+      "name": "深信服",
+      "url": "https://www.sangfor.com.cn/sangfor-cloud",
+      "status": 200,
+      "finalUrl": "https://www.sangfor.com.cn/sangfor-cloud",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "code": "300604",
+      "name": "长川科技",
+      "url": "https://static.cninfo.com.cn/finalpage/2025-07-22/1224237926.PDF",
+      "status": 200,
+      "finalUrl": "https://static.cninfo.com.cn/finalpage/2025-07-22/1224237926.PDF",
+      "contentType": "application/pdf"
+    },
+    {
+      "code": "300567",
+      "name": "精测电子",
+      "url": "https://static.cninfo.com.cn/finalpage/2025-04-24/1223287695.PDF",
+      "status": 200,
+      "finalUrl": "https://static.cninfo.com.cn/finalpage/2025-04-24/1223287695.PDF",
+      "contentType": "application/pdf"
+    },
+    {
+      "code": "688200",
+      "name": "华峰测控",
+      "url": "https://static.cninfo.com.cn/finalpage/2026-04-29/1225240540.PDF",
+      "status": 200,
+      "finalUrl": "https://static.cninfo.com.cn/finalpage/2026-04-29/1225240540.PDF",
+      "contentType": "application/pdf"
+    },
+    {
+      "code": "688361",
+      "name": "中科飞测",
+      "url": "https://www.skyverse.cn/?trk=public_post-text",
+      "status": 200,
+      "finalUrl": "https://www.skyverse.cn/?trk=public_post-text",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "code": "688147",
+      "name": "微导纳米",
+      "url": "https://www.leadmicro.com/",
+      "status": 200,
+      "finalUrl": "https://www.leadmicro.com/",
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "code": "603078",
+      "name": "江化微",
+      "url": "https://static.cninfo.com.cn/finalpage/2026-04-25/1225176561.PDF",
+      "status": 200,
+      "finalUrl": "https://static.cninfo.com.cn/finalpage/2026-04-25/1225176561.PDF",
+      "contentType": "application/pdf"
+    },
+    {
+      "code": "300236",
+      "name": "上海新阳",
+      "url": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=11992858&stockid=300236",
+      "status": 200,
+      "finalUrl": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=11992858&stockid=300236",
+      "contentType": "text/html; charset=gbk"
+    },
+    {
+      "code": "688146",
+      "name": "中船特气",
+      "url": "https://pdf.dfcfw.com/pdf/H2_AN202604201821340984_1.pdf?t=1778983582680",
+      "status": 200,
+      "finalUrl": "https://pdf.dfcfw.com/pdf/H2_AN202604201821340984_1.pdf?t=1778983582680",
+      "contentType": "application/pdf"
+    },
+    {
+      "code": "688106",
+      "name": "金宏气体",
+      "url": "https://static.cninfo.com.cn/finalpage/2025-08-23/1224555184.PDF",
+      "status": 200,
+      "finalUrl": "https://static.cninfo.com.cn/finalpage/2025-08-23/1224555184.PDF",
+      "contentType": "application/pdf"
+    },
+    {
+      "code": "688138",
+      "name": "清溢光电",
+      "url": "https://static.cninfo.com.cn/finalpage/2025-08-26/1224571814.PDF",
+      "status": 200,
+      "finalUrl": "https://static.cninfo.com.cn/finalpage/2025-08-26/1224571814.PDF",
+      "contentType": "application/pdf"
+    },
+    {
+      "code": "300655",
+      "name": "晶瑞电材",
+      "url": "https://disc.static.szse.cn/disc/disk03/finalpage/2026-04-28/7c1eb0c6-6c22-48d3-a4b3-cd803e979fcd.PDF",
+      "status": 200,
+      "finalUrl": "https://disc.static.szse.cn/disc/disk03/finalpage/2026-04-28/7c1eb0c6-6c22-48d3-a4b3-cd803e979fcd.PDF",
+      "contentType": "application/pdf"
+    },
+    {
+      "code": "688401",
+      "name": "路维光电",
+      "url": "https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12102577&stockid=688401",
+      "status": 200,
+      "finalUrl": "https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=12102577&stockid=688401",
+      "contentType": "text/html; charset=gbk"
+    },
+    {
+      "code": "002929",
+      "name": "润建股份",
+      "url": "https://static.cninfo.com.cn/finalpage/2026-04-27/1225195098.PDF",
+      "status": 200,
+      "finalUrl": "https://static.cninfo.com.cn/finalpage/2026-04-27/1225195098.PDF",
+      "contentType": "application/pdf"
+    },
+    {
+      "code": "300571",
+      "name": "平治信息",
+      "url": "https://static.cninfo.com.cn/finalpage/2026-04-29/1225238822.PDF",
+      "status": 200,
+      "finalUrl": "https://static.cninfo.com.cn/finalpage/2026-04-29/1225238822.PDF",
+      "contentType": "application/pdf"
+    }
+  ]
+}

@@ -1,0 +1,811 @@
+{
+  "reviewedAt": "2026-09-01",
+  "method": "Latest full annual-report body; management-discussion business section",
+  "records": [
+    {
+      "code": "000034",
+      "name": "神州数码",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "000063",
+      "name": "中兴通讯",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "000066",
+      "name": "中国长城",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "000938",
+      "name": "紫光股份",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "000977",
+      "name": "浪潮信息",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "000988",
+      "name": "华工科技",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "001309",
+      "name": "德明利",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "002126",
+      "name": "银轮股份",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "002130",
+      "name": "沃尔核材",
+      "status": "section_not_found",
+      "reportYear": "2025",
+      "reportTitle": "沃尔核材:H股公告:2025年度报告",
+      "publishedAt": "2026-04-24",
+      "sourceUrl": "",
+      "artCode": "AN202604241821526252",
+      "heading": "",
+      "sectionPreview": "",
+      "chunksRead": 12
+    },
+    {
+      "code": "002179",
+      "name": "中航光电",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "002261",
+      "name": "拓维信息",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "002281",
+      "name": "光迅科技",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "002334",
+      "name": "英威腾",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "002335",
+      "name": "科华数据",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "002364",
+      "name": "中恒电气",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "002371",
+      "name": "北方华创",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "002384",
+      "name": "东山精密",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "002409",
+      "name": "雅克科技",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "002436",
+      "name": "兴森科技",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "002463",
+      "name": "沪电股份",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "002518",
+      "name": "科士达",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "002815",
+      "name": "崇达技术",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "002837",
+      "name": "英维克",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "002851",
+      "name": "麦格米特",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "002916",
+      "name": "深南电路",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "002922",
+      "name": "伊戈尔",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "002929",
+      "name": "润建股份",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "002938",
+      "name": "鹏鼎控股",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "300017",
+      "name": "网宿科技",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "300054",
+      "name": "鼎龙股份",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "300223",
+      "name": "北京君正",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "300236",
+      "name": "上海新阳",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "300308",
+      "name": "中际旭创",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "300346",
+      "name": "南大光电",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "300383",
+      "name": "光环新网",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "300394",
+      "name": "天孚通信",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "300442",
+      "name": "润泽科技",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "300454",
+      "name": "深信服",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "300458",
+      "name": "全志科技",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "300474",
+      "name": "景嘉微",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "300476",
+      "name": "胜宏科技",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "300499",
+      "name": "高澜股份",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "300502",
+      "name": "新易盛",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "300548",
+      "name": "长芯博创",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "300563",
+      "name": "神宇股份",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "300567",
+      "name": "精测电子",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "300570",
+      "name": "太辰光",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "300571",
+      "name": "平治信息",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "300602",
+      "name": "飞荣达",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "300604",
+      "name": "长川科技",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "300620",
+      "name": "光库科技",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "300655",
+      "name": "晶瑞电材",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "300666",
+      "name": "江丰电子",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "300738",
+      "name": "奥飞数据",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "300846",
+      "name": "首都在线",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "300857",
+      "name": "协创数据",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "300870",
+      "name": "欧陆通",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "300895",
+      "name": "铜牛信息",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "300913",
+      "name": "兆龙互连",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "300990",
+      "name": "同飞股份",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "301018",
+      "name": "申菱环境",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "301128",
+      "name": "强瑞技术",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "301165",
+      "name": "锐捷网络",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "301191",
+      "name": "菲菱科思",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "301308",
+      "name": "江波龙",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "301396",
+      "name": "宏景科技",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "301536",
+      "name": "星宸科技",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "600050",
+      "name": "中国联通",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "600183",
+      "name": "生益科技",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "600498",
+      "name": "烽火通信",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "600602",
+      "name": "云赛智联",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "600845",
+      "name": "宝信软件",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "600941",
+      "name": "中国移动",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "601138",
+      "name": "工业富联",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "601728",
+      "name": "中国电信",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "603002",
+      "name": "宏昌电子",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "603019",
+      "name": "中科曙光",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "603078",
+      "name": "江化微",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "603083",
+      "name": "剑桥科技",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "603118",
+      "name": "共进股份",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "603186",
+      "name": "华正新材",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "603220",
+      "name": "中贝通信",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "603228",
+      "name": "景旺电子",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "603296",
+      "name": "华勤技术",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "603496",
+      "name": "恒为科技",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "603629",
+      "name": "利通电子",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "603650",
+      "name": "彤程新材",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "603690",
+      "name": "至纯科技",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "603881",
+      "name": "数据港",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "603887",
+      "name": "城地香江",
+      "status": "failed",
+      "error": "567 https://np-anotice-stock.eastmoney.com/api/security/ann?sr=-1&page_size=50&page_index=5&ann_type=A&client_source=web&stock_list=603887"
+    },
+    {
+      "code": "603893",
+      "name": "瑞芯微",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "603912",
+      "name": "佳力图",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "603986",
+      "name": "兆易创新",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "688008",
+      "name": "澜起科技",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "688012",
+      "name": "中微公司",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "688019",
+      "name": "安集科技",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "688037",
+      "name": "芯源微",
+      "status": "failed",
+      "error": "567 https://np-anotice-stock.eastmoney.com/api/security/ann?sr=-1&page_size=50&page_index=5&ann_type=A&client_source=web&stock_list=688037"
+    },
+    {
+      "code": "688041",
+      "name": "海光信息",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "688047",
+      "name": "龙芯中科",
+      "status": "failed",
+      "error": "567 https://np-anotice-stock.eastmoney.com/api/security/ann?sr=-1&page_size=50&page_index=5&ann_type=A&client_source=web&stock_list=688047"
+    },
+    {
+      "code": "688072",
+      "name": "拓荆科技",
+      "status": "failed",
+      "error": "567 https://np-anotice-stock.eastmoney.com/api/security/ann?sr=-1&page_size=50&page_index=5&ann_type=A&client_source=web&stock_list=688072"
+    },
+    {
+      "code": "688082",
+      "name": "盛美上海",
+      "status": "failed",
+      "error": "annual report not found"
+    },
+    {
+      "code": "688099",
+      "name": "晶晨股份",
+      "status": "failed",
+      "error": "567 https://np-anotice-stock.eastmoney.com/api/security/ann?sr=-1&page_size=50&page_index=3&ann_type=A&client_source=web&stock_list=688099"
+    },
+    {
+      "code": "688106",
+      "name": "金宏气体",
+      "status": "failed",
+      "error": "567 https://np-anotice-stock.eastmoney.com/api/security/ann?sr=-1&page_size=50&page_index=1&ann_type=A&client_source=web&stock_list=688106"
+    },
+    {
+      "code": "688110",
+      "name": "东芯股份",
+      "status": "failed",
+      "error": "567 https://np-anotice-stock.eastmoney.com/api/security/ann?sr=-1&page_size=50&page_index=1&ann_type=A&client_source=web&stock_list=688110"
+    },
+    {
+      "code": "688120",
+      "name": "华海清科",
+      "status": "failed",
+      "error": "567 https://np-anotice-stock.eastmoney.com/api/security/ann?sr=-1&page_size=50&page_index=1&ann_type=A&client_source=web&stock_list=688120"
+    },
+    {
+      "code": "688123",
+      "name": "聚辰股份",
+      "status": "failed",
+      "error": "567 https://np-anotice-stock.eastmoney.com/api/security/ann?sr=-1&page_size=50&page_index=1&ann_type=A&client_source=web&stock_list=688123"
+    },
+    {
+      "code": "688126",
+      "name": "沪硅产业",
+      "status": "failed",
+      "error": "567 https://np-anotice-stock.eastmoney.com/api/security/ann?sr=-1&page_size=50&page_index=1&ann_type=A&client_source=web&stock_list=688126"
+    },
+    {
+      "code": "688138",
+      "name": "清溢光电",
+      "status": "failed",
+      "error": "567 https://np-anotice-stock.eastmoney.com/api/security/ann?sr=-1&page_size=50&page_index=1&ann_type=A&client_source=web&stock_list=688138"
+    },
+    {
+      "code": "688146",
+      "name": "中船特气",
+      "status": "failed",
+      "error": "567 https://np-anotice-stock.eastmoney.com/api/security/ann?sr=-1&page_size=50&page_index=1&ann_type=A&client_source=web&stock_list=688146"
+    },
+    {
+      "code": "688147",
+      "name": "微导纳米",
+      "status": "failed",
+      "error": "567 https://np-anotice-stock.eastmoney.com/api/security/ann?sr=-1&page_size=50&page_index=1&ann_type=A&client_source=web&stock_list=688147"
+    },
+    {
+      "code": "688158",
+      "name": "优刻得-W",
+      "status": "failed",
+      "error": "567 https://np-anotice-stock.eastmoney.com/api/security/ann?sr=-1&page_size=50&page_index=1&ann_type=A&client_source=web&stock_list=688158"
+    },
+    {
+      "code": "688183",
+      "name": "生益电子",
+      "status": "failed",
+      "error": "567 https://np-anotice-stock.eastmoney.com/api/security/ann?sr=-1&page_size=50&page_index=1&ann_type=A&client_source=web&stock_list=688183"
+    },
+    {
+      "code": "688195",
+      "name": "腾景科技",
+      "status": "failed",
+      "error": "567 https://np-anotice-stock.eastmoney.com/api/security/ann?sr=-1&page_size=50&page_index=1&ann_type=A&client_source=web&stock_list=688195"
+    },
+    {
+      "code": "688200",
+      "name": "华峰测控",
+      "status": "failed",
+      "error": "567 https://np-anotice-stock.eastmoney.com/api/security/ann?sr=-1&page_size=50&page_index=1&ann_type=A&client_source=web&stock_list=688200"
+    },
+    {
+      "code": "688233",
+      "name": "神工股份",
+      "status": "failed",
+      "error": "567 https://np-anotice-stock.eastmoney.com/api/security/ann?sr=-1&page_size=50&page_index=1&ann_type=A&client_source=web&stock_list=688233"
+    },
+    {
+      "code": "688256",
+      "name": "寒武纪-U",
+      "status": "failed",
+      "error": "567 https://np-anotice-stock.eastmoney.com/api/security/ann?sr=-1&page_size=50&page_index=1&ann_type=A&client_source=web&stock_list=688256"
+    },
+    {
+      "code": "688268",
+      "name": "华特气体",
+      "status": "failed",
+      "error": "567 https://np-anotice-stock.eastmoney.com/api/security/ann?sr=-1&page_size=50&page_index=1&ann_type=A&client_source=web&stock_list=688268"
+    },
+    {
+      "code": "688313",
+      "name": "仕佳光子",
+      "status": "failed",
+      "error": "567 https://np-anotice-stock.eastmoney.com/api/security/ann?sr=-1&page_size=50&page_index=1&ann_type=A&client_source=web&stock_list=688313"
+    },
+    {
+      "code": "688361",
+      "name": "中科飞测",
+      "status": "failed",
+      "error": "567 https://np-anotice-stock.eastmoney.com/api/security/ann?sr=-1&page_size=50&page_index=1&ann_type=A&client_source=web&stock_list=688361"
+    },
+    {
+      "code": "688401",
+      "name": "路维光电",
+      "status": "failed",
+      "error": "567 https://np-anotice-stock.eastmoney.com/api/security/ann?sr=-1&page_size=50&page_index=1&ann_type=A&client_source=web&stock_list=688401"
+    },
+    {
+      "code": "688416",
+      "name": "恒烁股份",
+      "status": "failed",
+      "error": "567 https://np-anotice-stock.eastmoney.com/api/security/ann?sr=-1&page_size=50&page_index=1&ann_type=A&client_source=web&stock_list=688416"
+    },
+    {
+      "code": "688498",
+      "name": "源杰科技",
+      "status": "failed",
+      "error": "567 https://np-anotice-stock.eastmoney.com/api/security/ann?sr=-1&page_size=50&page_index=1&ann_type=A&client_source=web&stock_list=688498"
+    },
+    {
+      "code": "688519",
+      "name": "南亚新材",
+      "status": "failed",
+      "error": "567 https://np-anotice-stock.eastmoney.com/api/security/ann?sr=-1&page_size=50&page_index=1&ann_type=A&client_source=web&stock_list=688519"
+    },
+    {
+      "code": "688521",
+      "name": "芯原股份",
+      "status": "failed",
+      "error": "567 https://np-anotice-stock.eastmoney.com/api/security/ann?sr=-1&page_size=50&page_index=1&ann_type=A&client_source=web&stock_list=688521"
+    },
+    {
+      "code": "688525",
+      "name": "佰维存储",
+      "status": "failed",
+      "error": "567 https://np-anotice-stock.eastmoney.com/api/security/ann?sr=-1&page_size=50&page_index=1&ann_type=A&client_source=web&stock_list=688525"
+    },
+    {
+      "code": "688652",
+      "name": "京仪装备",
+      "status": "failed",
+      "error": "567 https://np-anotice-stock.eastmoney.com/api/security/ann?sr=-1&page_size=50&page_index=1&ann_type=A&client_source=web&stock_list=688652"
+    },
+    {
+      "code": "688668",
+      "name": "鼎通科技",
+      "status": "failed",
+      "error": "567 https://np-anotice-stock.eastmoney.com/api/security/ann?sr=-1&page_size=50&page_index=1&ann_type=A&client_source=web&stock_list=688668"
+    },
+    {
+      "code": "688676",
+      "name": "金盘科技",
+      "status": "failed",
+      "error": "567 https://np-anotice-stock.eastmoney.com/api/security/ann?sr=-1&page_size=50&page_index=1&ann_type=A&client_source=web&stock_list=688676"
+    },
+    {
+      "code": "688702",
+      "name": "盛科通信-U",
+      "status": "failed",
+      "error": "567 https://np-anotice-stock.eastmoney.com/api/security/ann?sr=-1&page_size=50&page_index=1&ann_type=A&client_source=web&stock_list=688702"
+    },
+    {
+      "code": "688729",
+      "name": "屹唐股份",
+      "status": "failed",
+      "error": "567 https://np-anotice-stock.eastmoney.com/api/security/ann?sr=-1&page_size=50&page_index=1&ann_type=A&client_source=web&stock_list=688729"
+    },
+    {
+      "code": "688766",
+      "name": "普冉股份",
+      "status": "failed",
+      "error": "567 https://np-anotice-stock.eastmoney.com/api/security/ann?sr=-1&page_size=50&page_index=1&ann_type=A&client_source=web&stock_list=688766"
+    },
+    {
+      "code": "688825",
+      "name": "长鑫科技",
+      "status": "failed",
+      "error": "567 https://np-anotice-stock.eastmoney.com/api/security/ann?sr=-1&page_size=50&page_index=1&ann_type=A&client_source=web&stock_list=688825"
+    },
+    {
+      "code": "920808",
+      "name": "曙光数创",
+      "status": "failed",
+      "error": "567 https://np-anotice-stock.eastmoney.com/api/security/ann?sr=-1&page_size=50&page_index=1&ann_type=A&client_source=web&stock_list=920808"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+name = "compute-chain-profile-service"
+main = "./worker/profile-service.ts"
+compatibility_date = "2026-08-25"
+compatibility_flags = [ "nodejs_compat" ]
+workers_dev = false
+
+[[d1_databases]]
+database_id = "10f2559c-5221-4f75-890a-b6e3b8228fd2"
+binding = "DB"
+database_name = "DB"
+
+[ai]
+binding = "AI"
+
+[[workflows]]
+name = "company-profile-enrichment"
+binding = "COMPANY_PROFILE_WORKFLOW"
+class_name = "CompanyProfileWorkflow"
